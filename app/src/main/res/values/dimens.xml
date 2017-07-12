@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="dimen8dp">8dp</dimen>
+    <dimen name="dimen16dp">16dp</dimen>
+    <dimen name="status_bar_height">24dp</dimen>
+    <dimen name="dimen1px">1px</dimen>
+</resources>
